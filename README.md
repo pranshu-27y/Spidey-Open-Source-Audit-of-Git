@@ -1,4 +1,4 @@
-# Spidey 🕷️ — OSS Audit Project
+# Spidey  — OSS Audit Project
 
 ## Student Details
 - Name: PRANSHU YADAV
